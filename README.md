@@ -1,4 +1,4 @@
-This repository contains the following files:
+This repository holds the following files:
 
 - Twitter-WeRateDogs-Dataset.csv: Datasets used for the project 
 - Twitter-WeRateDogs-Porject.ipynb: Analysis in Jupyter notebook
